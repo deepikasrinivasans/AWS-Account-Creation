@@ -1,4 +1,4 @@
- # CREATE AN  ACCOUNT IN AWS SET UP A ROOT USER AND AN IAM USER 
+ # EXP 2 CREATE AN  ACCOUNT IN AWS SET UP A ROOT USER AND AN IAM USER 
 
 ## AIM :
 To create an AWS account, set up a root user, and create an IAM user with specified permissions.
@@ -36,11 +36,7 @@ This experiment involves creating an AWS account, configuring security settings 
 
  ### IAM USER:
 ![cc3](https://github.com/user-attachments/assets/5da429f7-d99b-4558-87ae-99c09ae9a6db)
-
-
-![Screenshot 2024-11-17 211323](https://github.com/user-attachments/assets/ce5bf444-2ecd-47f1-b68f-b5c5adc8e5d1)
-
-
+![image](https://github.com/user-attachments/assets/cbf710bf-f7ad-409f-b8cc-2af30dfd9fcf)
 ## RESULT
 The AWS account was successfully created, with set up for the root user . Additionally, an IAM user was created with specified permissions, allowing for secure, controlled access to AWS resources without the use of the root account. 
 
