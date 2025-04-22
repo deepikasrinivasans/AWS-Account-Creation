@@ -23,18 +23,19 @@ This experiment involves creating an AWS account, configuring security settings 
  ### Step 7:
  Review and Create IAM User</br>
 
-### REG NUMBER:212222230028
+### REG NO: 212222230028
 ### NAME: DEEPIKA S
 
 ## OUTPUT
 
 ### ROOT USER:
-![Screenshot 2024-11-17 210532](https://github.com/user-attachments/assets/9b05a3be-0d52-4b8b-bc67-bbb7a74e7b11)
 
-![Screenshot 2024-11-17 210400](https://github.com/user-attachments/assets/2fa9810d-b0ab-41e2-bd3c-3dd574e5e8e7)
+![Uploading cc1.png…]()
+![cc2](https://github.com/user-attachments/assets/ba023eda-252d-433d-a87c-4d3c74c77610)
 
  ### IAM USER:
-![Screenshot 2024-11-17 211734](https://github.com/user-attachments/assets/72a4a4e1-3dad-4a72-9102-8b52f33cf83c)
+![cc3](https://github.com/user-attachments/assets/5da429f7-d99b-4558-87ae-99c09ae9a6db)
+
 
 ![Screenshot 2024-11-17 211323](https://github.com/user-attachments/assets/ce5bf444-2ecd-47f1-b68f-b5c5adc8e5d1)
 
